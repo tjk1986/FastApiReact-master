@@ -1,0 +1,6 @@
+pyinstaller
+fastapi
+pandas
+scikit-learn
+uvicorn
+python-multipart
